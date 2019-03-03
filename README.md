@@ -1,3 +1,5 @@
-VanillaJS
-Making a JS App
+## VanillaJS
+
+### Making a JS App
+
 From : https://academy.nomadcoders.co
